@@ -8,3 +8,5 @@
 
 
 echo 'Mini Project-1';
+
+echo 'IS601';
