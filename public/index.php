@@ -7,5 +7,4 @@
  */
 
 
-echo 'test';
-echo 'test1 bvghtfyujhkn';
+echo 'Mini Project-1';
